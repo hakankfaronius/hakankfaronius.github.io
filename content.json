@@ -1,0 +1,44 @@
+{
+  "name": "Håkan Karlsson Faronius",
+  "affiliation": "",
+  "email": "",
+  "github_url": "",
+  "research": [
+    "My research focuses on the mathematical foundations of neurosymbolic AI. I study the interaction between learning and reasoning using probabilistic circuits and Bayesian network representations, and investigate reasoning shortcuts in neurosymbolic systems.",
+    "I am also interested in uncertainty estimation in AI and the study of emergence in complex systems."
+  ],
+  "publications": [],
+  "preprints": [
+    {
+      "title": "Independence Is Not an Issue in Neurosymbolic AI",
+      "authors": "Håkan Karlsson Faronius, Pedro Zuidberg Dos Martires",
+      "year": "2025",
+      "venue": "arXiv:2504.07851",
+      "description": "An investigation of conditional independence and deterministic bias in neurosymbolic AI, examining whether the tendency to favor a single valid solution can be attributed to independence assumptions.",
+      "url": "https://arxiv.org/abs/2504.07851",
+      "pdf_url": "https://arxiv.org/pdf/2504.07851",
+      "github_url": ""
+    }
+  ],
+  "projects": [],
+  "theses": [
+    {
+      "title": "Solving Partial Differential Equations With Neural Networks",
+      "kind": "Master’s thesis",
+      "institution": "Uppsala University",
+      "year": "2023",
+      "description": "A study of physics-informed neural networks, Fourier neural operators, and the Deep Ritz method for solving partial differential equations and variational problems.",
+      "url": "https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1746454",
+      "github_url": ""
+    },
+    {
+      "title": "On the Implementation of Computer Intensive Methods in Linear Normal Models",
+      "kind": "Bachelor’s degree project",
+      "institution": "Uppsala University",
+      "year": "2021",
+      "description": "Bayesian inference in linear normal models, with implementations of Markov chain Monte Carlo and approximate Bayesian computation in R.",
+      "url": "https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1571907",
+      "github_url": ""
+    }
+  ]
+}
